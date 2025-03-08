@@ -1,3 +1,5 @@
+This is a copy maintained for cucumber demo; latest details should be available in https://github.com/cucumber/cucumber-jvm
+
 Cucumber Java8
 ==============
 
